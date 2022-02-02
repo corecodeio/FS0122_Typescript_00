@@ -1,4 +1,4 @@
-# Ejemplo 1 de Typescript
+# Ejemplo 0 de Typescript
 
 ### Commands
 
